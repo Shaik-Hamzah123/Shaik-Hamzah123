@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shaik-Hamzah123
 - 👀 I’m interested in Artificial Intelligence and Data Analysis
 - 🌱 I’m currently learning Artificial Intelligence and Machine Learning at VIT Chennai
-- 📫 How to reach me on [...](https://linktr.ee/shaik_hamzah)
+- 📫 How to reach me on [...](https://linktr.ee/shaik_hamzah) <---- click the 3 dots :)
 
 <!---
 Shaik-Hamzah123/Shaik-Hamzah123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
