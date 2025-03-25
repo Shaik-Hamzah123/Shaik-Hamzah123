@@ -1,4 +1,4 @@
-<h1 align="center">Yahallo 👋, I'm Shaik Hamzah</h1>
+<h1 align="center">Hey there 👋, I'm Shaik Hamzah</h1>
 <p align="center" style="color: orange;"><strong>Machine Learning | Data Science | Generative AI</strong></p>
 
 ---
@@ -12,6 +12,17 @@
 📧 **Email:**  
 - hamzah.shaik2023@gmail.com  
 - shaik.hamzah@analyticsvidhya.com  
+
+---
+
+### 🔗 Connect with Me
+
+<p align="center">
+  <!-- Kaggle Badge -->
+  <a href="https://www.kaggle.com/skhamzah" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-skhamzah-blue?style=for-the-badge&logo=kaggle" alt="Kaggle Profile" />
+  </a>
+</p>
 
 ---
 
