@@ -22,6 +22,11 @@
   <a href="https://www.kaggle.com/skhamzah" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-skhamzah-blue?style=for-the-badge&logo=kaggle" alt="Kaggle Profile" />
   </a>
+  &nbsp;
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/shaik-hamzah-ba3288112/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-ShaikHamzah-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
 </p>
 
 ---
