@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Shaik Hamzah</h1>
+<h1 align="center">Yahallo 👋, I'm Shaik Hamzah</h1>
 <p align="center" style="color: orange;"><strong>Machine Learning | Data Science | Generative AI</strong></p>
 
 ---
