@@ -1,6 +1,8 @@
 <h1 align="center">Yahallo 👋, I'm Shaik Hamzah</h1>
 <p align="center">
-  <img src="https://imgur.com/a/hello-everynyan-3-Ej9BQQ6" width="600" alt="Hello Everynyan" />
+  <a href="https://imgur.com/YUQYNNb">
+    <img src="https://i.imgur.com/YUQYNNb.jpg" width="600" alt="Hello Everynyan" />
+  </a>
 </p>
 <p align="center" style="color: orange;"><strong>Machine Learning | Data Science | Generative AI</strong></p>
 
