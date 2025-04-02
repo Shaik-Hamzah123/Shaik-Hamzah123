@@ -1,4 +1,7 @@
 <h1 align="center">Yahallo 👋, I'm Shaik Hamzah</h1>
+<p align="center">
+  <img src="[https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/assets/hello-everynyan.jpg](https://preview.redd.it/hello-everynyan-r-osaker-is-trying-to-add-osaka-to-r-place-v0-gtf0x317acdb1.jpg?auto=webp&s=5c0c938045294ffb565cd51f5742d5df9f7de796)" width="600" alt="Hello Everynyan" />
+</p>
 <p align="center" style="color: orange;"><strong>Machine Learning | Data Science | Generative AI</strong></p>
 
 ---
