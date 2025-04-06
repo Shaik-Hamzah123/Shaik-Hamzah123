@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/IMzF7Zt.gif" width="500" alt="Let's code some bangers!" />
+  <img src="https://i.imgur.com/IMzF7Zt.gif](https://media1.tenor.com/m/FLfJEQ0Q8wQAAAAd/rigby-freaky.gif" width="500" alt="Let's code some bangers!" />
 </p>
