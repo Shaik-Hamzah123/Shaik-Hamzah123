@@ -63,5 +63,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/IMzF7Zt.gif" width="500" alt="Let's code some bangers!" />
+  <img src="[https://i.imgur.com/IMzF7Zt.gif](https://tenor.com/en-GB/view/rigby-freaky-cat-cat-meme-tongue-out-gif-1492882876567450372)" width="500" alt="Let's code some bangers!" />
 </p>
