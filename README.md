@@ -49,11 +49,6 @@
 </p>
 
 <p align="center">
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shaik-Hamzah123&theme=dark" alt="Contribution Graph" />
-</p>
-
-<p align="center">
   <!-- Visitor Badge -->
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Shaik-Hamzah123" alt="Visitor Badge" />
 </p>
