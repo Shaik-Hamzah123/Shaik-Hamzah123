@@ -57,6 +57,6 @@
   <strong>Let's code some bangers! 🚀🔥</strong>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/IMzF7Zt.gif](https://media1.tenor.com/m/FLfJEQ0Q8wQAAAAd/rigby-freaky.gif)" width="500" alt="Let's code some bangers!" />
-</p>
+https://github.com/user-attachments/assets/baf05636-a32d-4277-b272-002bcab7591c
+
+
