@@ -57,6 +57,8 @@
   <strong>Let's code some bangers! 🚀🔥</strong>
 </p>
 
+<p align="center">
 https://github.com/user-attachments/assets/baf05636-a32d-4277-b272-002bcab7591c
+</p>
 
 
