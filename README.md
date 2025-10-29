@@ -9,7 +9,7 @@
 ---
 
 🎓 **Final Year CSE (AI & ML) @ VIT Chennai**  
-💡 **Gen AI Intern @ Analytics Vidhya**  
+💡 **Data Scientist @ Analytics Vidhya**  
 ✍️ **Technical Blogger** at [Analytics Vidhya](https://www.analyticsvidhya.com/blog/author/shaik8558834/)  
 
 📌 **Interests:** Computer Vision | Generative AI | Machine Learning  
