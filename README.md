@@ -101,7 +101,7 @@ me.say_hi()
 
 | 🔍 Computer Vision | 🎨 Generative AI | 🧠 Machine Learning |
 |:------------------:|:----------------:|:-------------------:|
-| Image Classification | GANs & Diffusion | Deep Learning |
+| Image Classification | Agentic AI | Deep Learning |
 | Object Detection | LLMs & NLP | Model Optimization |
 | Segmentation | Text-to-Image | MLOps |
 
@@ -145,7 +145,5 @@ Check out my technical articles at [Analytics Vidhya Blog](https://www.analytics
 <div align="center">
   
 **⭐️ From [Shaik-Hamzah123](https://github.com/Shaik-Hamzah123)**
-
-*"Building AI solutions one commit at a time"*
 
 </div>
