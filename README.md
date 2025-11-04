@@ -19,7 +19,7 @@ class ShaikHamzah:
     def __init__(self):
         self.name = "Shaik Hamzah"
         self.role = "Data Scientist @ Analytics Vidhya"
-        self.education = "Final Year CSE (AI & ML) @ VIT Chennai"
+        self.education = "CSE (AI & ML) @ VIT Chennai"
         self.interests = ["Computer Vision", "Generative AI", "Machine Learning"]
         self.current_focus = "Building AI-powered solutions"
     
@@ -33,7 +33,7 @@ me.say_hi()
 ### 💼 Current Roles
 - 💡 **Data Scientist** at [Analytics Vidhya](https://www.analyticsvidhya.com/)
 - ✍️ **Technical Blogger** sharing ML insights and tutorials
-- 🎓 **Final Year Student** specializing in AI & Machine Learning
+- 🎓 **Recently Graduated** specializing in AI & Machine Learning
 
 ### 📧 Reach Out
 - 📬 hamzah.shaik2023@gmail.com
