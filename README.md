@@ -4,7 +4,7 @@
 
 # 👋 Yahallo, I'm Shaik Hamzah
 
-*Yes, that's an anime greeting. No, I will not apologize.*
+*Yes, I'm Sane. I will not apologize.*
 
 ### 🤖 Machine Learning &nbsp;•&nbsp; 📊 Data Science &nbsp;•&nbsp; ✨ Generative AI
 
@@ -142,6 +142,6 @@ I write technical deep-dives on ML, AI, and things that keep me up at night.
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Shaik-Hamzah123)
 
-**⭐️ From [Shaik-Hamzah123](https://github.com/Shaik-Hamzah123) — powered by caffeine and questionable commit messages**
+**⭐️ From [Shaik-Hamzah123](https://github.com/Shaik-Hamzah123) — powered by choco milkshakes and questionable commit messages**
 
 </div>
