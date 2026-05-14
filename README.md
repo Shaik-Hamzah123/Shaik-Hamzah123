@@ -4,11 +4,11 @@
 
 # 👋 Yahallo, I'm Shaik Hamzah
 
-*Yes, I'm Sane. I will not apologize.*
+*Yes, I'm Sane. I won't remove these images.*
 
 ### 🤖 Machine Learning &nbsp;•&nbsp; 📊 Data Science &nbsp;•&nbsp; ✨ Generative AI
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Scientist+%40+Analytics+Vidhya;ML+Engineer+%7C+AI+Enthusiast;Technical+Blogger;Building+AI+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Data+Scientist+%40+Analytics+Vidhya;AI+Engineer+%7C+GenAI+Enthusiast;Technical+Blogger;Building+AI+Solutions" alt="Typing SVG" />
 
 </div>
 
