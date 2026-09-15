@@ -27,13 +27,12 @@ class ShaikHamzah:
 
     def say_hi(self):
         print("Thanks for stopping by — let's build something cool 🚀")
-        print("(Or at least something that passes CI on the third try.)")
 
 ShaikHamzah().say_hi()
 ```
 
 - 💡 **Data Scientist** @ [Analytics Vidhya](https://www.analyticsvidhya.com/) — turning data into decisions, and occasionally into a 2am Slack message that just says "why"
-- ✍️ **Technical Blogger** — ML tutorials so you don't have to suffer through the official docs alone
+- ✍️ **Technical Blogger** — Demystifying some concepts whenever I feel like :)
 - 🐛 Professional bug creator, occasional bug fixer
 
 ---
@@ -49,8 +48,6 @@ ShaikHamzah().say_hi()
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-*Focus: Computer Vision • Generative AI / LLMs • MLOps (mostly Ops-ing myself out of a job)*
 
 </div>
 
